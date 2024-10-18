@@ -53,7 +53,7 @@ If you want to make changes or run the site locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/word_of_the_day.git
+   git clone https://github.com/yourusername/a-word-a-day.git
    ```
 
 2. Open `index.html` in your browser directly, as the site does not require a local server to run (it’s fully static).
